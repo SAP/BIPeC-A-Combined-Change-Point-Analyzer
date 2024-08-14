@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/BIPeC-A-Combined-Change-Point-Analyzer)](https://api.reuse.software/info/github.com/SAP/BIPeC-A-Combined-Change-Point-Analyzer)
+
 # BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems
 
 Source code and materials for the paper
