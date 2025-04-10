@@ -7,19 +7,26 @@ Source code and materials for the paper
 ----
 
 Zhan Lyu, Thomas Bach, Yong Li, Nguyen Minh Le and Lars Hoemke.
-2024
 _BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems_.
-rest_to_be_created
+2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+doi: 10.1109/ICSME58944.2024.00084
 
 ----
 
-Link to publisher (to be created)
+Link to publisher: [10.1109/ICSME58944.2024.00084](https://doi.org/10.1109/ICSME58944.2024.00084) or [IEEE](https://ieeexplore.ieee.org/document/10795023)
 
-Copy to cite (bibtex from ACM):
+Copy to cite:
 
 ``` bibtex
-@inproceedings{
-    title=to_be_created
+@inproceedings{2024BIPec,
+  author={Lyu, Zhan and Bach, Thomas and Li, Yong and Le, Nguyen Minh and Hoemke, Lars},
+  booktitle={2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
+  title={{BIPeC}: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={808-819},
+  doi={10.1109/ICSME58944.2024.00084}
 }
 ```
 
